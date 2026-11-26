@@ -50,5 +50,5 @@ Trang chủ gợi ý tối đa bốn tin dựa trên những danh mục bạn xe
 
 GitHub Pages phục vụ tệp tĩnh. Chợ cần máy chủ chạy Node.js và lưu cơ sở dữ liệu SQLite trên ổ đĩa bền vững. Khi triển khai, đặt `MARKET_HOST=0.0.0.0`, `PORT` theo cấu hình của máy chủ, `MARKET_DATA_DIR` vào thư mục lưu dữ liệu bền vững và `MARKET_ORIGIN` bằng địa chỉ HTTPS công khai của chợ.
 
-Ảnh banner `Images/cho-phu-thinh-banner.jpg` là [ảnh chụp của Hiep Nguyen trên Pexels](https://www.pexels.com/photo/antique-store-in-hanoi-street-18703294/). Ảnh tin đăng được người đăng tải lên từ biểu mẫu. Danh mục các khu nằm trong `Scripts/market-data.js`.
+Ảnh banner `Images/DSC_4753.jpg` do người dùng cung cấp. Ảnh tin đăng được người đăng tải lên từ biểu mẫu. Danh mục các khu nằm trong `Scripts/market-data.js`.
 
